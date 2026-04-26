@@ -47,30 +47,9 @@ student-scoreboard/
 
 > Clean UI with modern dashboard layout, responsive design, and smooth interactions.
 
----
-
-## ⚙️ Installation & Setup
-
-Follow these steps to run the project locally:
-
-```bash
-# 1. Clone the repository
-git clone https://github.com/your-username/student-scoreboard.git
-
-# 2. Navigate into the project folder
-cd student-scoreboard
-
-# 3. Install dependencies
-npm install
-
-# 4. Start the development server
-npm start
-```
-
-App will run on:
 
 ```
-http://localhost:3000/
+http://localhost:5173/
 ```
 
 ---
@@ -106,11 +85,6 @@ Feel free to fork this repo and submit a pull request.
 
 ---
 
-## 📄 License
-
-This project is open-source and available under the **MIT License**.
-
----
 
 ## 🙌 Acknowledgement
 
@@ -120,8 +94,7 @@ Built as a learning project to practice **React fundamentals and UI design**.
 
 ## 💡 Author
 
-**Your Name**
-GitHub: https://github.com/your-username
+GitHub: https://github.com/punitsharmaaj2020-sys/ASSIGNMENT-03.git
 
 ---
 
